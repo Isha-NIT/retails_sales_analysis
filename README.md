@@ -169,6 +169,19 @@ FROM retail_sales
 GROUP BY category
 ORDER BY profit_margin_percent DESC;
 ```
+## Sample Outputs
+
+### Revenue by Category
+![Revenue by Category](outputs/revenue_by_category.png)
+*Electronics leads revenue contribution across all categories.*
+
+### Monthly Sales Trend
+![Monthly Sales Trend](outputs/monthly_sales_trend.png)
+*Monthly revenue trends reveal seasonal demand patterns.*
+
+### Profit Margin by Category
+![Profit Margin by Category](outputs/profit_margin_by_category.png)
+*Beauty achieves the highest profit margin despite lower total revenue.*
 
 
 ## Tools & Skills Demonstrated
